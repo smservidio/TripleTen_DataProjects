@@ -1,7 +1,7 @@
 # TripleTen_DataProjects
 Triple Ten - Data Projects 
 
-The following table provides a description of the projects I completed on while attending the Business Intelligence Analytics TripleTen Bootcamp.
+The following table provides a description of the projects I completed while attending the Business Intelligence Analytics TripleTen Bootcamp.
 
 
 | Project number | Title | Description |
